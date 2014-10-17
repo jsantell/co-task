@@ -1,5 +1,7 @@
-co-task [![Build Status](http://img.shields.io/travis/jsantell/co-task.svg?style=flat-square)](https://travis-ci.org/jsantell/co-task)
-=======
+# co-task 
+
+[![Build Status](http://img.shields.io/travis/jsantell/co-task.svg?style=flat-square)](https://travis-ci.org/jsantell/co-task)
+[![Build Status](http://img.shields.io/npm/v/co-task.svg?style=flat-square)](https://www.npmjs.org/package/co-task)
 
 [co](https://github.com/visionmedia/co) wrapper as [Task.jsm](https://github.com/mozilla/gecko-dev/blob/master/toolkit/modules/Task.jsm) API. Task.jsm is a subset of [task.js](http://taskjs.org/) for use inside Mozilla.
 
